@@ -1,3 +1,9 @@
 Branch1 new file
 
 Branch 1 content update
+
+Branch 1 content update without adding and committing the branch
+
+Branch 1 content update without adding and committing the branch
+Branch 1 content update without adding and committing the branch
+Branch 1 content update without adding and committing the branch
